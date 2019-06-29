@@ -1,0 +1,1054 @@
+airline_sentiment,text_len,retweet_count,tweet_createdLocalHour,text
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways Batting 1.000! Four flights in a month, all four delayed!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united Help! My girlfriend Amy Lloyd is going to miss our flt to Zurich bc of your fault. She needs a golf cart to meet her at ORD (1)
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united you think you boarded flight AU1066 too early? I think so.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue Ok and in Dominican Republic what numbers?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@JetBlue marks 15th birthday with 'Blumanity' paint job - @Dallas_News (blog) http://t.co/lFGR0Nifut
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir @USAirways ""but I take meds that make me severely dehydrated"" {sigh}"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united - are you aware your airbus fleet sucks?  I'd rather fly a C-130 full of rubber dog shit.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@USAirways sat on the ramp for 45 min and missed my connection. No one seems to concerned at usairways.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@JetBlue You have very unhappy customer. After waiting 20 min on hold, rude &amp; uncaring rep has now frozen my acct. can't print bdng pass!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir I was flying from Ft Lauderdale FL to Seattle WA on the 02/28/2015 until the 03/03/2015 and they don't want to honor my flight.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir it's ok I was supposed to be in California 5hrs ago
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@JetBlue lmfao.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways and after six hours even the gate agent got fed up and left us all on line in front of an empty desk. Stay classy US Air.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@USAirways Your customer service line keeps telling me call back Late Flightr and disconnects. How can I talk to someone about my flight?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united worst flying experience ever and they tried to blame it on ATC?! I watched them load bags for 30min after boarding 45min Late Flight
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir we did check before going to de airport and everything was fine. #fail
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united Pay for a cab back to the airport to show baggage dept. my wet shirts and suit is not a viable option. 2nd time this has happened!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@USAirways and next flight delayed as well. 5238 out of Charlotte, is it just my luck or what?"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@USAirways Already tried. How about Conf # via DM
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@united thanks! :)
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways I've been on hold for 40 minutes just to get a receipt. I know you guys are busy but I think it's time to higher more staff!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@SouthwestAir disappointed with customer service right now, my flight was only one Cancelled Flightled at my airport &amp; now I'm losing 2 days from trip"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@SouthwestAir not as sorry as I was when I sat on a plane for 3 hours waiting for the engine to be fixed and THEN got my luggage lost, but k"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@USAirways Cancelled Flightled flight this AM. There was avail flight to PHL today u said was sold out. I had to buy 2nd ticket, u need to refund me."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@JetBlue what's up with the random delay on flight 1729? Any chance of it being a false alarm?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@SouthwestAir Thanks! Will do
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@jetblue Havana, Cuba - To share my love of photography and leave pictures behind, as well as to deliver much-needed items. #flyingitforward"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@AmericanAir Flight's Cancelled Flightled. Website says to call phone number.Phone says to check online.  How am I supposed to get some help?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united now you've lost my bags too.  At least nobody has done anything to help out.  This is absurd.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@SouthwestAir been on the phone for about an hour waiting..can you please answer, Thank You!  #notcool"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@JetBlue follow for DM please
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@United WiFi onboard 737-800 far superior in pricing and performance (user-perceived bandwidth and Late Flightncy) to recent @GoGo experiences.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"2/2 @united You don't really care about our comfort, you care about profitability. That's fine, just own up to it. #unfriendlyskies"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue how can your entire system go down? No IT? Really?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@USAirways your customer service at CLT is terrible!!! My flight was delayed from JFK for 2 hours!  Get to CLT to horrid customer service!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united @gg8929 Ladies and gents - United Airlines...
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,“@JetBlue: Our fleet's on fleek. http://t.co/vOUUFRN4jS” YASSS JetBlue ! Tell them !
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@USAirways I did at 7 pm! Still no bag..
+neutral,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_20.0,@AmericanAir 901 #Miami to #Rio to participate at @RCM_Oficial representing @CisnerosMedia #yourstoryhere
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united I trust you enough to put my coat in my checked bag!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways PLANS CHANGED! IS THAT WHAT U CALL NOT BEIN ABLE 2 PARK ON TIME PLANES W A 2 HR LAYOVER N B ABLE 2 MAKE UR CONNECTION! #seriously
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@united they wouldn't let me on. Real nice of you! Just love your awesome service. And U have 2 people working this customer service line..
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways flight #3900 fro ORF to PHL.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@SouthwestAir That's an awesome library.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@SouthwestAir Can you give me info on Flt 681 out of BDL? I see it's Cancelled Flightled.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@SouthwestAir there is a good chance myself nor anyone else in this airport will ever be Flight Booking Problems southwest again..
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united you board a 630a flight and then Cancelled Flight it because it doesn't have a pilot?  Now I miss my meeting Atlanta because someone slept in?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@JetBlue Why not deal with that while the plane's on the ground instead of diverting the plane &amp; adding 2 hrs to the flight?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@VirginAmerica first time flying Virgin, went to #SanFrancisco .Thanks for the smooth ride. Easily my new fav airline!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,.@SouthwestAir thx for the note. Flight was Cancelled Flightled and today is all booked so had to go with another carrier. :(
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@JetBlue would you say a delay is more likely? Thanks so much.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@USAirways charged my card 11 times for one airline ticket, now card is on security hold"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways once again your company actualy put people in weird situations.Your hostel voucher was fake.Snow is ok but no lies please
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir my wife is trying to get a group of clients to their destination and just got disconnected after2 hours holding. Help.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways I did, but i need to get a human being. What's the fastest way to achieve this? All I get is a computer."
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@AmericanAir nothing to do with Mother Nature, more like poor commutation."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@SouthwestAir Was going for the weekend for friend's birthday, so no point in reFlight Booking Problems."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir no date on when revieving our money sent a letter in post and several emails no reply?? very frustrated
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united as a freq flyer it makes me sad to see cust needing assistance treated so poorly. #ServiceFail
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir The wine served in USAirways flights are watered down somehow right out of the bottles.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,"@JetBlue NOT A HAPPY CUSTOMER. We've waited patiently, not to mention $150 and six months of marathon training, we need 2 be there tmrw."
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@AmericanAir thanks!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united They couldn't get me first class on any of their flights so I just rebooked myself.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@united I'm not sure how you can help. Your flight experience is terrible, planes are dirty and staff is rude. Start over perhaps?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@JetBlue Flight 69 (ha!) - one employee said they were reassigned another said they just left. I just want some warm weather!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir when is the last chance to get #DestinationDragons tickets? I would die of happiness if I won 😭🙏
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united yes. We waited in line for almost an hour to do so. Some passengers just left not wanting to wait past 1am.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@united After all I have been through on this trip, can you get me on another airline home?"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united you already have vomit so you are halfway there
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir what do I need to do when TSA pre doesn't show for a flight of mine?
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@USAirways Oh well. I'll get to Cancun eventually.
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir hi do you have a phone number to ring from uk regarding claim for our Late Flight flight departure claim amount agreed just had no
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways sitting here in PHL with all of your rude Customer Service Agents!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir Stuck in Miami, and one of the worst customer experiences I have ever had. Will be sure to let everyone know about my time w/AA"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@JetBlue thank you for taking care of me with a drink since my in-flight entertainment wasn't working #goodcustomerservice
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united and don't hope for me having a nicer flight some other time, try to do things right. You sold me those tickets with that connetion"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir honesty should always be the policy
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@AmericanAir AA919 flight attendant freaks out and leaves aircraft as passengers react to a 24h delay and cattle treatment. Surreal!
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,"@JetBlue pilot: ""Don't worry folks there's a backup for the backup for every part of this plane."" Thanks guy"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue your customer service today was deplorable.  There were plenty of ways u could have gotten us on that flight. #badcustomerservice
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue in the sky on flight 833 from BOS to SFO. Awesome crew! Helene rocks!
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Bought a round trip to Chicago two days ago...today the same flight is half that! Is there any way for me to get that discount??
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@JetBlue so you guys lost my bag that had all my ski gear in it. I flew here from NYC to ski. Should I buy new stuff tomorrow? ...
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@AmericanAir Thank you.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@SouthwestAir everything OK? This is my 3rd call for the day and this time I've been on hold for 1.5 hrs. I'll hang up and try again.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@USAirways flight #703 Philly -&gt; Mia? Bwahahaha! Delayed 5+ hrs, were in the air 30 mins then turned back around. #usairwaysfail"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir I will.make sure to tell everyone I know about this all around horrible experience. I will also post it on my business page.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@VirginAmerica you know it. Need it on my spotify stat #guiltypleasures
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_12.0,.@SouthwestAir you've got a mess here at DTW but your staff is doing great.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@AmericanAir your planes made me miss 2 connections in 2 days. Thanks for nothing
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways  Instead, the miles are credited to an account that i did not open
+-- My request to merge the accounts is denied"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir doesn't even have gluten free peanuts. whyyy me??
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways thanks for being so bad you make a two day train trip look appealing!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@United OMG WHERE IS MY BAG??? YYZUA70435 - enough with the shenanigans already. It's getting real old real quick!!
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@SouthwestAir yep. 99.99999999% certain it was on that flight.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@united Yeah, bag is on the way. As per usual.  I'm actually getting used to getting it delivered to me, its kind of nice in a sense."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways some people in line have been waiting 55 minutes for a customer service representative
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue - He Cancelled Flightled a flight &amp; was given 2 weeks to apply travel bank credit to another flight &amp; credit was transferable
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@USAirways Just Cancelled Flight every flight I have why don't you.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways thank you for blowing my vacation. Couldn't get me anywhere today to make my reservation and also lost 2 bags of mine!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@AmericanAir if you could get the gate crew to help us off FLT 5350 that would be great....
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united comically on the return flight from ASE there were two United flights boarding at adjacent gates and not clear which plane to board
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@USAirways not given option for new flight! Why can't we get a plane PHL-MIA? 20years as an #eventprof this is worst travel experience ever
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue Happy Anniversary!! It's hard to believe you're 15!! You're so young!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@AmericanAir I didn't miss my flight.  American Airlines gave my ticket, as well as 6 other passengers tickets away. Not my fault."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@united resolved and im sick and tired of waiting on you. I want my refund and I'd like to speak to someone about it.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue what is the deal with flt 460 today? Departure keeps changing. When is it going why is it so Late Flight?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@JetBlue Thanks. Which day of the week is the direct?  The flights I saw went thru JFK   ☀️
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@AmericanAir yes I did but no response.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united hoping to get out earlier than 2/23 (only phone option) or assistance with hotel.
+neutral,xxtextlencount_<=75,xxretweetcount_1,xxtweet_createdLocalHour_nan,@SouthwestAir when will the winners of #DestinationDragons be announced?
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@AmericanAir when will you be issuing a weather advisory for RDU?? the entire state of NC has shut down from the overnight winter storm.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@VirginAmerica great. Well deserved.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir so you fail again flight to rdu sitting waiting on flight attendants. your logistics are not good
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,. @SouthwestAir condescension must be a quality your co rewards. Your tone reeks of it
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_17.0,"@united...lies lies lies....still sitting at the gate, have not moved an inch http://t.co/LulGnwEfFH"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@united I have.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united stay more than 24h traveling ans sleeping on the airports floor
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@United now what?!? http://t.co/5hpSqVRjK8 flight was gone when I got off plane! #BusinessTravel #goodenoughmother
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@AmericanAir just landed - 3hours Late Flight - and now we need to wait TWENTY MORE MINUTES for a gate!  I have patience but none for incompetence.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir ...have you seen Blue? Go look it up :)
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@JetBlue We're flight 1472 FFL to LGA. Scheduled departure 8:15p.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@united landed in Boston at 9 last night.  The 15 hours of traveling was rough tho.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united 3 hour 45 min delay so far..... Would love to round to 4 hours to just go to bed!
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@JetBlue why are we delayed :( flight 1601
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways my in-laws flight Cancelled Flighted 4 tonight. U auto rebooked 4 flight on Tuesday that doesn't work. Can you help reFlight Booking Problems them?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@JetBlue something they're not telling us (2)
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united is officially my favorite airline. They have created magic for me all day!!! #friendlyskies #careyon
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@JetBlue thanks! I'll do it.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways Reservation agent on the phone did a great job.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways I appreciate your prompt response.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways How do I get through?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@JetBlue Third flight in a row for my wife with her TV not working...
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@VirginAmerica Or watch some of the best student films in the country at 35,000 feet! #CMFat35000feet http://t.co/KEK5pDMGiF"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways @ClaudOakeshott don't need this link, after getting a person u now say u don't know where bags are. Lost on a nonstop phx to jfk."
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@USAirways despite mechanical issues and many delays followed by a Cancelled Flightlation, still getting to Vegas thanks to great gate agents!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir I don't have a conference number.  I spoke with Courtney in Texas and David before that. they finally fixed mine after an hour
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@SouthwestAir please please please answer the phone. . .
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@SouthwestAir it'd be nice if I could get an answer, even a simple ""no"" would do; I just want to know. :)"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@JetBlue well, now saying our flight is going to be Cancelled Flighted &amp; that by not changing earlier, we missed our chance to get out tomorrow. 1/2"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue @DatingRev mco to lag two hour delay and sitting in Tarmac going on 40 minutes with infants crying on plane!! Get us off this plane
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@USAirways @msscottwg  ""That's unusual"" means we screwed up but will never admit to it!  #GoingForGreatnessFAIL"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir baggage delivery at BWI very delayed and unnecessarily chaotic. Disappointing after a long trip! From a frequent traveler
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir So much for Status, EP and 1.5 million miles.  Revenue First class ticket and Im sitting in Coach thanks your rude CS staff"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@VirginAmerica congrats, you just got all my business from EWR to SFO/LAX. Fuck you @united fl1289 SFO/EWR was the clincher..."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@AmericanAir @ti2469 oh shiz i'm only 40 minutes into my wait after the first 3 hour barrier ...unbelievable
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir We tried with multiple people. I already sat on the phone for an hour and a half and got nowhere.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,Bruh “@JetBlue: Our fleet's on fleek. http://t.co/W9BQiw0aou”
+neutral,xxtextlencount_75_130,xxretweetcount_3+,xxtweet_createdLocalHour_21.0,"@AmericanAir jet slides off icy taxiway at @dfwairport 
+
+STORY: http://t.co/4pONJ3jidE http://t.co/3DCWerZ1kr"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue flight 16 now sent back to the gate even though the app says its leaving. Anyone have a clue? It's 36 and sunny at JFK
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways what's wrong with the plane? Flt 581
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir got call saying flight Cancelled Flightled but checked online and it isn't Cancelled Flightled. No where near bad weather. I have job interview
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue the TV. Wifi was spotty. It's just a nice feature for a X country flight. Still won't keep us away #lovejetblue
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@AmericanAir this has happens so many times. It's just upsetting to see how poorly an airline treats their customers
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,“@JetBlue: Our fleet's on fleek. http://t.co/g12sn5qsqZ”- no... Yall better than this
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir @dfwairport  Have been trying to get canx flight resched since noon.  got 2 call backs but call disconnects as soon as I answer
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@united traveling from FRA thru IAD to MCO tomorrow, concerned abt IAD weather. Can't change until advisory issued? Any advice?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@USAirways it still says that I can't check into my flight because the information is incorrect but everything is entered correctly
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@AmericanAir booked AA3370 departing JFK 2/25/15. It was booked via BA and I want to change my FF# to AA can you do that for me via Twitter?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,".@VirginAmerica not only was it great, but you return my calls the day after. Couldn't ask for more. #myVXexperience"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,Thank U 😘 “@JetBlue: @ItsLaLoca But of course! Safety is always 1st!  We'll make sure to handle her with CARE and LOVE!  :)”
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united That was the problem.  We were being told the aircraft was on its way.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways was on hd for 1hr and 3min at 3:00am since my flgt  from DCA to MSY was Cancelled Flightled, still trying to get out. On hold now 50minssss"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@USAirways will all flights out of DFW be Cancelled Flightled today?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir is my favorite airline!  I can't wait to book my flight to New Orleans for my trip in April!! :) :)
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Cancelled Flightled my flight for some unknown reason and haven't really given me anything to make my overnight layover tolerable
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@united b) I contacted you directly, and the phone service was Laissez Faire at best.  The problem isn't a Cancelled Flightled a flight."
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@JetBlue I believe that the website said I could receive credit for upcoming flights since I Cancelled Flighted my last one. Is this true?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@USAirways   Just talked to reservation. Must congratulation to them. Very friendly.  Good for usair. The ONLY airline we fly.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways do you post travel alerts on your website? Traveling to Bdl on Sunday morning.
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir I noticed the rates increased a few days ago, or the promotion ended. Any idea when another promotion will be coming?? Thanks!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@JetBlue We had some major plane-wide DirectTV issues yesterday. System kept being reset by crew member.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@United ticket counter Masters out of SMF not very helpful.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@united I locked myself out of my account and needed access to book a flight.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@JetBlue yes, but it hurt my feelings to walk by MINT. A fella can dream. #happy4them"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways I agree but per the captain this issue happened before boarding &amp; we all sat in the plane for almost 2 hrs
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir I'm trying to reach the advantage department to add my number to a recent flight
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways just informed of three hour delay. Pick up the phone and get me on another flight!
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@SouthwestAir Awesome staff at the  check in desk! They had a paper airplane race for a SW gift card to keep ppl entertained during delays
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united 2 employee yelled at her. 3 employee stood with others whispering and pointing at her from behind counter
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@united crew has been notified, passenger moved but water not fixed. Now on tarmac two hours"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united #worst2unitedflightsever UA1429 IAD to LAS 2/19 mechanical problems - switched aircraft delayed 3.5 hours!
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united Educate Bohol is a 501(c)(3) w/all volunteer staff. I can help the kids or buy a plane ticket ...I can't do both. Can you help?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir I tried that &amp; they have been disrespectful not professional &amp; my 2nd flight been Cancelled Flighted I have to get home for a surgeryHELP
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@united ok it's now been 7 months waiting to hear from airline. I gave them quite a bit more than the 30 days requested! Terrible service
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@united at the gate! IAD to RDU
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways so how about some help with suggested time I could call to avoid such long wait time
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@JetBlue They did not have any &amp; asked if I wanted tea. How do you have tea&amp;not coffee? I'm a gold on United &amp; coffee I nvr think 2x about
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united took this picture on Thursday. #awesome http://t.co/IVGpZSjtkW
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@SouthwestAir I'm in line at the airport right now. Will you cover hotel fair or am I to sleep in the airport?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,"@JetBlue Hi there, any rough idea of when January 2016 flights will be made available?"
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united when southwest did this to us -- a mechanical problem at least they gave us round trip vouchers. Will you step up to the pLate Flight too?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@USAirways flight 614 keeps telling a few more mins to take off its been an hour. First time with you not the best #lies #brokenpromises
+positive,xxtextlencount_>130,xxretweetcount_2,xxtweet_createdLocalHour_nan,"@SouthwestAir strives to be 'Customer Centric' in everything they do - communications, advertising, customer journey, etc. #ANAmarketers"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@SouthwestAir yea but I was hoping to avoid the ticket difference amount as a birthday courtesy? #flysouthwest #lovesouthwest #mybday
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways Your app and website are trash AF.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@AmericanAir 249 EWR - DFW is now stopping BNA to refuel 4 bad weather? Are YOU just trying to get the plane closer 2 DFW then Cancelled Flight on us?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@AmericanAir understand the weather but would be nice to hear an apology on the phone when you moved my flight to an inconvenient day
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue Thanks! I just sent a few DMs.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@VirginAmerica when are you putting some great deals from PDX to LAS or from LAS to PDX show me your love! http://t.co/enIQg0buzj
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@united Old school ride home to LAX from Houston #flyingRetro http://t.co/6asuwx3Kv0
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united How does United refuse to reissue a $400 lost voucher when their plane didn't take off due to mechanics? #badcustomerservice
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@AmericanAir Checked in on app since yesterday. Confirmed upgrade &amp; carry on, got to counter &amp; manager upgraded somebody else on my seat!"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@united speaking of my flight, skateboards are allowed as carry on bagage right? No extra payment needed?"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@JetBlue and stranded passengers aren't being helped to get another flight?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue Still no response from CEO. I guess he is at the Oscars.  I bet his flight was on time.  #JUSTWRONG
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@AmericanAir Are you kidding? You don't think I've done that?? I've called dozens of times &amp; it tells me to call back &amp; hangs up.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways stuck on the ramp at DCA, US Air computer system crashed...everywhere."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Greenfield Daily Reporter http://t.co/LM3opxkxch
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,"@SouthwestAir there... from my first interaction with your people this morning, after bad weather, sorry but I wont be flying with you again"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@AmericanAir the worst first class boarding service I ever had.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@united - Why can't I get a boarding pass for my Austrian Airlines codeshare flight. Rebook incls a 6 hour layover &amp; I am stuck outside sec
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united flight 4567 agent now wandered off. Pilots came out looking for her. Went to charge her personal phone which she'd been txting on
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@SouthwestAir thank u for not leaving me 
+@me nice job running thru the airport to catch your connecting flight"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir @TheAcademy party in #hotlanta http://t.co/x5ZQssJtRB
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,"There were plenty of empty seats in coach ""@united: Your dissatisfaction is understood. Crew members traveling for duty are pre-booked on f"""
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united this flight has been amazing. This is the best flight I have ever been on I am not kidding. Service is INCREDIBLE!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@USAirways @AmericanAir  we are on us/aa flight 4443.We  arrived at dca at 2:12. Waiting on our gate (33)for apx an hr now. No update?
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_23.0,@united I sent a message. It's very irresponsible that my suitcase cannot be found. This is truly worst service ever... #fedup #disastrous
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Will never fly with you again! Terrible service!! Ruined our entire vacation!! #lostsuitcase #noreimbursement
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@AmericanAir Thanks that was done, I just don't understand why those whose bags couldn't fit aren't notified in air/at landing #technology"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways thank you!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@JetBlue Why was flight 669 forced to return to NY when there was a malfunction? Why not land in the countless air strips surrounding Chi?
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,"@JetBlue Thanks JB. Actually, As a birder I love them too. They just need to be outside. It shouldn't be too hard to trap and move them."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@usairways would it kill you to let me put my tsaprecheck number on my reservation?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@united Classic
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@USAirways I need help. In air on #717 to CLT from PHL. Conf: D1MQF5 Need confirmed on #1776 to BNA at 10:30. Been bumped all day, need home"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united I'll be sending/posting complete details of the circumstances surrounding this matter.  United airlines should be ashamed.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@united have Michelle at T1 ORD train your other staff on how to treat customers. A refreshing pleasure to deal with.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@usairways 3rd time cut off after 10+ minutes on hold with Chairmans desk?!??? Wth how are we supposed to rebook Cancelled Flightled flights?!?!?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir did you pick the winners for the #DestinationDragons ?? #87yearsLate Flightr #maybeijustlost #whyyounoloveme
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united Apparently they are asking 20 people to off board the plane--how can such a big miscalculation be made?!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@AmericanAir ask the 10 people you left behind at Miami airport because you guys could not wait 5 minutes and ... http://t.co/XPM98Igqjn
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united nexus confirmed that at any crossing via air, car or boat she can travel with only Nexus."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united and I was denied an upgrade because of catering issues??? #poorservice
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"“@USAirways: Reminder: From 2/28, we’ll be tweeting from @AmericanAir. You should join us: http://t.co/WBMHRl3bvl"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@AmericanAir @russelneiss No, American. This is simple. How about YOU call HER back with the info for her new flight. Basic customer service"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@Usairways thanks for making miss connection, getting rebooked, missing that too, and a miserable day. Started my day @ 4:30am for nothing!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Sorry that is a sad answer a fully refundable first fare and no response in 6 weeks ! No more AA in my future !
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@VirginAmerica You have the best flight attendant ever!!! http://t.co/PxdEL1nq3l
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@AmericanAir @tennetexan Too bad there's only, like, 3 people on that team, then. Because this is next level unreal."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@AmericanAir oh I did. All I received back was an email saying "" delays happen"".. Uh huh.."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@AmericanAir confused at the definition of a ""preferred seat."" I paid extra for one and got a regular seat with no legroom. Unimpressed."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@AmericanAir @barrettkarabis what a joke you can mail
+The receipt !! Yet. We can't mail
+Them
+A payment and fly before hand right"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir   Thanks
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue I hope so. The plane does appear to be leaving a nearby terminal for our gate.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AndrewFallis same here! On hold for an hour &amp; then told @USAirways has done all it is willing to- which was apologize. #stillnotonmyflight
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir had an amazing experience with your staff at DIA last night. I was blown away by their hospitality with my wife on crutches
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united it would be super if you paid as much attention to actual fliers as you do to credit card holders.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir it eventually arrived. just seemed really slow. :)
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@USAirways you've completely ruined a pro athlete's ability to prepare for a race. Now you won't help him get the bike he needs to the DR?!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir The delay is nothing but the personnel being so combative up to the point of saying ""what's the hury,  the plane is not leaving"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@united on a good note, the 2 employees I encountered @ Newark were fabulous. I was very Late Flight for my connecting flight and they got me on!!!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways great job communicating to the passengers! Flight 1855 doesn't exist anymore? http://t.co/hLZaHXkdSn
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united always happy to start my life with my new wife with a 5 hr travel delay due to MAINTENECE and it would appear incompetence
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir not anymore.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways Credit to my bank account for the two days of work that I've missed because of these Cancelled Flightlations.
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_9.0,@USAirways so basically I am stuck paying for hidden fees and being bumped to an inferior flight. JetBlue here I come. #usairways #mergers
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@AmericanAir @_Lucy_May surely much better to let us all share the feedback unless you have something to hide?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@VirginAmerica  how are you gonna have a deal from Dallas to DC but no deal from DC to Dallas? #sad
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue disappointed with the missed connection from ROC to SLC and no reimbursement even tho friend who is a pilot said it was due to ATC
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_1.0,"@USAirways yes, i am as well.  **FIVE** HOURS ON HOLD, FOLKS. Can you PLEASE tell me if this is typical?! Trying to be understanding here."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@united That's called throwing ""loyalty"" out the window and trying to give less awards."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@JetBlue w/ edits: Dear @msbgu , your MBAs need better benefits. They should work for us. How can we meet them?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir- I called @united and they solved the flight Cancelled Flightlation issue in 15minutes. May be ask them how to do it? #getmorehands
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united Wasn't frustrating! Well, not in any way reLate Flightd to y'all, anyway. Impressed that I made it."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@united Wife and I have two new destinations and I'm stuck in DC until Monday with no bags
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@AmericanAir please allow me to speak with someone. A dialogue would solve this issue better and faster than emailing.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@SouthwestAir I, along with other passengers repeatedly asked Southwest personnel what was taking so long, where was our luggage."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir ruined my Sunday. 3+ hours of delays out of DIA, now my bags are at the wrong airport. $35 to deliver them? Insult to injury."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir frustrating indeed especially when no one knows what the issue is....
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@AmericanAir @sweetmel If weather is bad, wouldn't your folks try extra hard to communicate...or load bags onto flight 1320...or...anything?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united #4781 Cancelled Flightled. #5102newflight I will be upset if this one Cancelled Flights too. I could have rented a car if they would have been honest.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Flight 953 NYC-Buenos Aires has been delay since yesterday at 10PM. Is going to take off at 3.30PM now? Give us answers!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@SouthwestAir k but who won destination dragons
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@VirginAmerica Results Handily Exceed Forecasts - @NYTimes http://t.co/gonmRwEM6I
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united the refund team is far from customer care courtesy they need training on work ethics. So it's like sir u r lying how can I help
+negative,xxtextlencount_<=75,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united. Once again your lack of customer centricity us astounding
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@SouthwestAir you guys should stop doing service in Denver it's horrible I get stuck here every time! I've been here almost 24hrs
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@AmericanAir VERY upset that I cannot select seats for Tuesday flight online or over the phone. Terrible customer service :( Please help!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@JetBlue I spent over an hour of my morning on hold w/ your customer support. I want my confirmed flight to be taken care of
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@SouthwestAir follow for a DM please. Need to confirm a Cancelled Flighted reservation
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways Really a letter that says you will discuss serving drunks more drinks that doesn't help the current situation
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_8.0,"@united But why do people with no status get to buy an upgd at much less than cost ahead of premiers with earned ""confirmed"" certificates?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@AmericanAir my wife's flight is Cancelled Flightled, told to call. No one answers. How do we book a flight? Help us please"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@united  treats service members like crap never flying again with them #UnitedAirlines  @CNN
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@SouthwestAir hello I was talking with @SouthwestVerity but it says you moved here, they sent me a voucher but does not work can u help?"
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united Hi, I am flying domestic first from SEA to HNL. Can I pay to use the lounge before I fly or this is just for international? Thanks"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@AmericanAir is non existent and I will take this as far as needed.Why hide behind a corporate logo? Provide a number #tcf #useless #amateur
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,"@united when I read it say ' in some cases' can you please define this for me, when for example would it not be the case?"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue ok thank you for the quick response JetBlue still the best comp
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@AmericanAir @dfwairport Guys, let it go. http://t.co/vOxcghciJi"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways you can't even track my bag to see where it is. It's like it's disappeared.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir and thx for not responding
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@sarahpompei don't bother wasting your time!  @USAirways will send u a form letter &amp; let u choose a gift certificate. #worstcustomerservice
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@SouthwestAir Thx Ops Agt Rich Westagard n Flight Att. Nancy @ DEN Airport.Held flight 1027 n even saved seat 4 Bus Select #CustomersFirst!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united @JedediahBila KP I am not traveling - we trying to cheer up Ms. Bila.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@JetBlue can I get some more leg room tonight B6 304
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir @ArminRosen @ggreenwald Tell that piece of shit to get fucked... I'll fly exclusively with you for life...
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir  If you'd love to see more girls get inspired about becoming pilots, RT our free Albuquerque event. http://t.co/rfXlV1kGDh"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united I was denied getting on the plane w/o getting the chance to prove it fits. I'm not a rookie. Read my bio.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways Ever sit on hold and just lose track of time? http://t.co/Yqhk8LJaBN
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways flight today showing on time online, not able to check in. Called &amp; told was Cancelled Flightled, put on hold over an hr ago. Help?"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@JetBlue mint seats are AWESOME! :-) @emaleesugano best business class in the US!!!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@USAirways we've now learned to never fly with u again. You've lost 16 customers from our group + the hundreds more from our company
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@SouthwestAir Do you anticipate any Cancelled Flightlations for flights out of Nashville tomorrow? Thank you!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@USAirways ""We can't help you. We don't put people up in hotels when you miss a flight it's against policy."""
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"“@AmericanAir: @RussellsWriting Russ, please contact Reservations at 800-433-7300 for reFlight Booking Problems options.” Good luck with that!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@AmericanAir am on hold for the 2nd time today. Need help with confirming the new flights you arranged for me. Can you expedite this?
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@VirginAmerica Thanks so much for the awesome support, you guys rock!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways 4097 DCA to BNA. Just told they need to do 1.5 hrs worth of maintenance. Was supposed to leave at 8:50 am. [sigh]
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@SouthwestAir how about fixing the wifi!  3rd flight where it's not working. 800 series plane so not like it's an old plane.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@united and that it would be sent on the next flight to Hayden/steamboat (HDN) from Denver. So I'm hoping its on there
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways stuck on Tarmac for hour an a half and told longer to go and no hotels available when we land in Phoenix #unacceptable #unhappy
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united absolutely disgusting the way you treat your customers. Isn't there anyone actively monitoring your Cust serve? This is  unreal!!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@JetBlue do you have a waiver for NY weather today?
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_12.0,@united bags arrived - I sure miss the customer focused days when I used to fly @ContinentalAir1 Here's hoping @united wakes up
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways ... What's going on at @PHLAirport ?!  I've been sitting at the gate for 45minutes.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@AmericanAir you have my money, you change my flight, and don't answer your phones! Any other suggestions so I can make my commitment??"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united that is not in line with your responses here. And now I'm waiting until tomorrow morning because all the flights are overbooked.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@AmericanAir awesome! Thx
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir think you have great people working for you.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir so the one time we upgrade to first class our luggage was open and now missing valuable items that can't be replaced. #upset
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united is it on a flight now? Thanks for reply.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@SouthwestAir yes, very much so! I was looking forward to using your airlines for future flights but never again."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir now the second flight I was put on was Cancelled Flightled with no explanation!! Missed my first meeting!!#outraged😡😡
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir RDU flights expected to be ok this afternoon and tonight?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir ""bag has not yet been located"". Again, 5th time I've checked it. How can tracking my bag be this hard for your system?"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways I am following you now
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@united unfortunately still on the Tarmac at @fly2ohare and definitely missing my ride from @flypdx #GonnaBeALongNight
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,"@united I'm on one of your 757-300 between JFK and LAX.When r u upgrading planes?Plane has no Screens,lousy seats And that's in UnitedFirst."
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,"@JetBlue flight from JFK-SFO was pure awesomeness. Mint Class and Tim our attendant was the best! Other airlines, take notes!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@USAirways thanks for taking my flight off the board AND NOT PROVIDING and updates about my flight which is 26 minutes Late Flight.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir  Just sent DM. Thanks for your attentiveness to this matter.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Flight Cancelled Flighted 2nd time. Can't reach agent to reschedule. Can you call me?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united you're customer service is unbelievably bad. Abysmal. I've been on the phone for well over 2hrs tonight. Hung up on by yr ppl 3x.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united wanted to, but you Cancelled Flightled my tickets.... They were too special i guess even for united."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@JetBlue I'm on flt 700 lax to FLL both ppl are sleeping so Id rather not disturb in flight. Tried to dl movie no go http://t.co/Nh2i9ZlzMk
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir this delayed bag was for my friend Lisa Pafe. She got her bag after 3 days in Costa Rica. Issue no updates on your system.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir just sent you a DM w/ additonal info
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@AmericanAir I was just called abt my flight Cancelled Flightlation- a flight that was Cancelled Flightled at 10:30a Sunday. Two 4:00a calls are not okay.
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Thanks for doing that but now it's telling me to go to the airport and check in with an agent-what's up? http://t.co/PfseNJk5Pw
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@AmericanAir Would have had to fly real far south, huh? #WinterWeather #Brrr"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue my family and I are excited to see you too😊😊
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue I would like to send an email to Lost and Found at JetBlue JFK; I spoke to them this morning but cannot drive their today.
+negative,xxtextlencount_<=75,xxretweetcount_1,xxtweet_createdLocalHour_13.0,"@JetBlue well, now I'll make sure to never fly JetBlue"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue @JayVig @roxydigital awww ^_^ R to the T, realtime appreciation from JetBlue #rockingthetweets #JVMChat"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@AmericanAir Asked for a waiver of a change fee for flight booked w/in past 24 hrs. Rep was rude. Just told me no. Didn't even try to help!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@AmericanAir To announce DURING BOARDING that you chose to limit catering to the point that you WILL run out shows a lack of planning, IMO."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@USAirways are you going to do anything to help stranded travelers of flight 680?! No communication from anyone. All of us dumped here.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,“@JetBlue: Our fleet's on fleek. http://t.co/RkwugmanM9” lmao you know a white person said this
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_17.0,@united thank you for letting me down.My luggage is still in Denver but I'm in Phl. #neveragain #flyingwithUS #disappointed #lostacustomer
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@JetBlue keep going back and forth with being able to board and then not. But great agents in savannah!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united so is the ^JJ standing for Just Joking?  I am not finding the humor.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@united have since dropped to 2 layovers but still not acceptable.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@AmericanAir seats that were assigned are inappropriate for child this age. AA knew age of child.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@USAirways how much is it to check golf clubs on a flight. They might be oversized
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@USAirways now telling me I don't have the correct tag for my luggage!!! My luggage apparently is not in LA or Charlotte. This is not ok!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,"@USAirways customer service failure aside, one would think you guys would care about inaccurate manifests. I'm sure TSA would."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways So far....my phone wait time is longer than @ABCNetwork's #Oscars coverage. #WhatCustomerService
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united can you please tell me where United flies to from Sydney Australia - pref Asia Pac or US as I have a voucher to redeem.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united he is so excellent and so reliable :) #happycustomer
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@USAirways I paid for my seat.  I expect to be able to use my full seat
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_7.0,@USAirways did a pre schooler develop your app? The thing crashes every single time.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@VirginAmerica hold times at call center are a bit much
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue just lost my business   Enjoy your profits
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@AmericanAir what's done is done. Not much you can do at this point. Trip is already over.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@AmericanAir stranded for 24 hours in MIA, Patrick casimir has been the ONLY AA staff to apologize for the great inconvenience #unreal"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue She claimed that she did, but I was not happy with the way I was treated."
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@united thank you!!!!! And next flight to Durango then driving to Farmington New Mexico for work! But hitting the slopes in Durango!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@VirginAmerica I just did, how can I DM? Do u have to also add me?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@AmericanAir It's not your agents; it's your voice activated system that's not working right. And no email on Cancelled Flightlation. Lots of problems
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,"@AmericanAir attended to and corrected my complaints via Twitter. Whoa. This is the brave, new world we live in. Thank you, American Air :)"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Priceless. United stranded my daughter at O'Hare. United did zero to keep her safe.....alone on a plastic chair for 9h! # United Air
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@USAirways woohoo! He still has 1 more flight but so happy to hear they're in the air, just about cried! (Must be the preggo hormones!) thx!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united or @flysaa has lost my baggage… heard different things from different employees of @united. @flysaa has said nothing.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@USAirways how do you manage to place a family of 5 into a plain with none of them sitting next to each other one of them being a 3yr old
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@united 32 people getting pretty tired about no action on solving the problem plus missing a day of vacation and skiing
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"Yes, I filed a report in Atlanta. My bags are in Charlotte, NC. 24 hours Late Flightr and still can't find my luggage ... @USAirways"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,"@united, take a look at status of 683, sitting at ORD ... This ain't cool, yo."
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@JetBlue he just went above and beyond to be helpful
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@SouthwestAir sure, please follow me so I can do so?"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,"@SouthwestAir not frustrated, just an idea! Great crew. Thanks! #happycustomer"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_7.0,"@united cool, thanks."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir yall say flt 4200 is on time, yet we haven't boarded for a 3:35 departure b/c we are waiting on a new crew. Why the subterfuge"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@JetBlue Hey guys, why did my last flight earn me 0 pts? http://t.co/1syWlmTZek"
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,"@SouthwestAir is now recruiting for Fall 15, Spring 16 Internships. 
+2/23/15, 5- 6pm @JindalCMC Davidson Auditorium(1.118) #JSOM #UTDallas"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways thank you
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways There is no reFlight Booking Problems the event I'm flying to attend. Waiting for jetway driver??? STILL ON TARMAC???
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir trying to get to Mexico in September! How about affordable nonstop flights????
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@united @AmericanAir THIS IS THE  YEAR FOR VAN GOGH FANS TO VISIT EUROPE
+http://t.co/e1EOfthgAJ"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,"@AmericanAir I really want to get home. Tonight, preferably. Please stop delaying my plane 😢😕😦 #AmericanAirlines"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir  Please Help. We really want to fly with you. #guessweflyingdelta
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@eatgregeat WOW~Thx for thinking of us, Greg! Heard #SOBEWFF was amazing! We've heard the same about @JetBlue (ps thx for the info) #TeamNKH"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@SouthwestAir Any ETD for SWA1004 from PHL? Appears delayed but no info available at gate.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways can I speak to a human with some compassion? I wrote an email to discuss my experience and received a generic ""sorry"" email back"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir I also find it ridiculous that I've been tweeting to you since 3:50 AM EST and have still received no response. 9 hours?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@AmericanAir Hahaha.... ""Meanwhile in Russia...."""
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@USAirways an already pleasant flight from London to Charlotte (US733) was made fantastic by an amazing attendant. Thank you so much Robert!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@AmericanAir offered me a cot to sleep on?After they Cancelled Flightled my flight. A fucking cot. What about a hotel, like you're supposed to provide"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue what is the Mosiac 800 #?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united   It's too bad UA has had another unforeseeable operational issue on my return flight.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@AmericanAir extremely upset that your baggage handlers decide to go in my luggage and take my belongings
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@JetBlue Thank you. I really would have preferred Jet Blue. You guys have the best seats in the business.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@JetBlue does not fit in 140
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue I only fly Jet Blue
+neutral,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_16.0,@SouthwestAir Is there any way to get entry to the Las Vegas event to see @Imaginedragons perform? #DestinationDragons
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@SouthwestAir 2 hours on hold trying to reschedule Cancelled Flightled flight. Hold music stopped, but no one's answering. How can I reach a rep?"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,.@united call my work and tell them it's your fault I'm Late Flight
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@SouthwestAir sure can! Just a second.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@AmericanAir yet there are plenty of available AA agents at gates nearby who say they are unable to help customers from our flight.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir You officially have the worst customer service of any airline I've ever dealt with. #southwestairlines #poor
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@SouthwestAir Roger wilco.
+negative,xxtextlencount_<=75,xxretweetcount_2,xxtweet_createdLocalHour_16.0,@AmericanAir missing a full days of work thanks guys
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@united does asap mean two hours worth of delay and a return to the terminal to count the luggage a third time? #gottogetbetter
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways Our flight was Cancelled Flightled &amp; chaos abounds. I am in good humour. Please give me free everything to appease me.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir Southwest is definitely my favorite airline to fly! :D
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@JetBlue shocker my flight delayed an hour. Thanks for reminding me why I switched to delta.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir I understand that. But 14 hours Late Flightr, I still haven't heard a word! How can you plan your week with no zero information!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@AmericanAir but you're not sorry enough to compensate for either the extended time or cost difference to an alternate direct flight, right?"
+positive,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_13.0,@JetBlue 's free wifi on board is the best thing that's happened since sliced bread
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,I always look forward to JB RT @JetBlue: @bostongarden :) Looking forward to welcoming you onboard! 💙
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways Any update on the computer outtage affecting flights? Is this national or just Northeast? ETA on resolution?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@united your agents (and service) on my weekend trip have been AMAZING!!! Thank you!!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@AmericanAir your online site doesn't have flights listed in chronological order, resulting in a mis-purchase. Anything that can be done?"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@united Got a call. Bag is to be delivered tonight. Thanks for your reply!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways if you DM me we can take this offline. Would love more info on location of lost bags. Any help is appreciated.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@VirginAmerica question: is it not possible to book a seat for an infant under 2? It's not giving me the option but we want a seat for him.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@USAirways Some of my 4 kids are anxious. Husband and I can't sit with all 4 with current setup. No warning that our 6 seats changed.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@united : Unhappy with United's service?
+
+Read Ralph Nader's open letter to UAL's CEO.
+
+Leave a comment or RT.
+
+http://t.co/O0745APIau"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways Your Baggage system has hung up on me twice because you have too many callers. I NEED TO FIND MY HUSBAND'S (@SweetingR) BAGS.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united where is my flight voucher?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir  please call us back to rebook!!! 7403607771. We need to get back to Columbus!!!!!! Please help
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united you hung up on me again.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir is there another line I can call when I am on hold for 5 hours? Also how can I get compensated for this loss of time and money?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@jetblue are going to let Fl382 into a gate in BOS any time soon? We're just sittin' here on the tarmac  waiting.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@AmericanAir I am honestly in shock how this process and service compares to my other airline experiences. Not really sure what to say...
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir not sure why I would bother when the agent at the airport didnt help &amp; nobody on phone would. Ticket Cancelled Flightled for no reason.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@AmericanAir you've got to be kidding. Look at the pictures.  I'm hoping it's on the flight that just came in. The whole story is 2 much
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united This is with regard to a flight from a couple weeks ago. I'm very frustrated with your policies &amp; expressing that.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Reebooked for tomorrow in AA 1389 LV-DFW at 810 am arriving 12.50pm; still open this flight?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir @SouljaCoy what is AA going to do to fix their utterly embarrassing customer service? You won't even answer the dang phone!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@united you had us REBOARD without the captain.  So now we'll be sitting in here for another 20+ min? http://t.co/EEReKDf9Fq
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@USAirways usually ""sorry"" doesn't involve moving people to middle seats and removing them from upgrade lists. Guess that's a club perk."
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@united How do I get through @TSA to finally board UA 1534?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united Thanks Yup I'm all set.  It happens.   SLC ground staff were prompt,  helpful and courteous."
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united what is this subtlety gate changes? Are you kidding with me?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue Why not just take her info in the beginning and if cut off, call back? We do that in my medical practice. We are frequent flyers :("
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united can you get me on the delayed flight to EWR out of YYZ at 15:30? No customer service to be found in airport
+neutral,xxtextlencount_75_130,xxretweetcount_2,xxtweet_createdLocalHour_7.0,@JetBlue now out of A gates and into main terminal @ DCA. @NATCA members keeping watch from ATCT. #avgeek http://t.co/hPsiEaokwh
+negative,xxtextlencount_75_130,xxretweetcount_3+,xxtweet_createdLocalHour_nan,@USAirways @DRVRugby  team is back home but luggage all wet and partly damaged - Not happy! #blizzard
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@united maybe on my return trip 👍
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@united still haven't received a response. Please direct message me for my contact information.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@united that would help! or how about integrate it into the App so I can just ""activate"" it and surf..."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@united flying tomorrow from mexico to US. Mileage tkts dont show 1k status. Help
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways thank you! I tried that and they said they didn't have it. Anywhere else to try?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@USAirways any way to get your call center to answer for a OneWorld award? Whenever try system says too busy and disconnect or endless hold
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united so unhelpful... http://t.co/vBfIeo2qJC
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@united That's still one day over my visa expiring on June 9, which is why I booked my flight on that day."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir Hello, question, How many balloons do you think it will take to life up one of your planes?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@usairways I've been on hold since 11:30pm how many customer service reps do you have?
+ #seriously"
+negative,xxtextlencount_<=75,xxretweetcount_1,xxtweet_createdLocalHour_22.0,@united if I wait I'll lose the flight. So frustrating.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir because your gate attendant let someone board whose boarding pass kept reading invalid. This messed up the passenger log.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@AmericanAir on Feb. 15th your rep gave me the record locator and told me I'd be receiving an email with the itinerary and confirmation.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united Thank you. Mention that before I boarded she asked 1other person to measure their bag, and it was another woman. Men not asked."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united - handed a slip of paper,&amp;said to call 1800#. Have called 2x/day trying to get it sent, still @ layover airport.Have that ref # tho."
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@VirginAmerica I was so glad it was mentioned. I took my first virgin flight a few years back and it was a transformative experience.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united no claim number. Haven't been back to iAd baggage since. Is there a phone I can call to speak to someone?
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@JetBlue Seems very likely.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@JetBlue insane the craziness I've seen with Jet Blue today at Newark Delayed 3 hours and now we are waiting for a Pilot!! #jetblue
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,"@SouthwestAir your A-list program is a complete JOKE! Your company does not value loyal customers.Time to look for another ""go-to"" airliner"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@JetBlue 6 hour delay. Supposed to land at 9pm now it's 3am. Still not boarding. #EpicFail
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir I will tell marry a lamp if you give me tickets to the Vegas show please I am desperate
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@USAirways thanks! Any idea when it will be resolved? I'd like to purchase my ticket!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@AmericanAir has been almost a month and still no response to my online complaint/questions. Out $300 because of it.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united i left an item on the plane and have been calling non stop and no one has been answering can you please help
+neutral,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_0.0,“@JetBlue: Our fleet's on fleek. http://t.co/ar0VayLmFc” Really Jet Blue? Lmao
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@southwestair Grand total from landing to getting bag: one hour. That's very sad.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@SouthwestAir  your checkin is lame for business. Really last seat? I have broad shoulders haha
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways flight was full.  1 open middle seat.  Did not want to sit there.  What is your policy?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir @elwoodblues77 I'm sure he understands the rules but you guys just have zero customer service. Staff your damn counters!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united have been waiting 2 days for my military bags from an airport 3 hours away from me. Horrible.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@JetBlue Your scheduling skills failed. The delay went from four hours to nearly six. Don't tell me you were snowbound in PBI.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@VirginAmerica beats expectations, shares take off - Santa Cruz Sentinel http://t.co/qm9dQbai6G"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@USAirways no online clearly states I can NOT- It says to call res. I already explained that.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@SouthwestAir  @TheEllenShow @Imaginedragons  @kdepetro313 .what a great first night. #DestinationDragons http://t.co/N3LrFo4UaY
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue remember - I'm very doubtful and not very hopeful :(
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united how else would I know it was denied?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@AmericanAir no I will be calling corporate!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Hands down the worst airline to travel with. Really really fucking bad.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@AmericanAir I am looking for help on USAirways award travel booked for wife and two boys, no seats assigned."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,"@SouthwestAir Password reset email is incredibly slow to arrive today. Checked spam folder, too. Web site says a few minutes, but 15? :|"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@SouthwestAir still haven't left @BWI. Maybe by the time I'm suppose to fly back to Austin on Tuesday we'll have moved.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,"@united @danahajek : she means to say there has been so many complaints today (this week, this month) that she can't respond b/c she's alone"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@AmericanAir 8 hours on the phone yesterday.  Really?  Still doesn't pick up status on US Air flight.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united what is the problem with your flights to ny today
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@VirginAmerica @freddieawards Done and done! Best airline around, hands down!"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@united fails again. @SouthwestAir saves the day.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways 603 &amp; 2705 DFW to PSP thank you!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir Are we sure flights will not be Cancelled Flighted after 1200 I am trying to make plans in STL
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@USAirways @AmericanAir been with US Airways since 03,  back and forth Gatwick - Charlotte, then LHR. Bit sad nostalgic way."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@AmericanAir I'm trying to register since 12:00,don't want to be separated from my brother during the15hours flight!There're few places left"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@United Airlines Cancelled Flights OC FLL #flight today. $700 to switch. No notice no apology. We are done flying #UnitedAirlines.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@JetBlue #1408 IAD to JFK still hasn't boarded. What's today's excuse and how am I gonna get to work?
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue I would fly to Washington  DC to see the actual Constitution  and the Declaration of Independence, in honor of a US Navy friend."
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united I think this is the best first class I have ever gotten!!  Denver to LAX and it's wonderful!!!
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@SouthwestAir Thanks so much!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@united Thanks for your response. Bags came, but it was a long wait and priority tags weren't honored at all. Disappointing"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@JetBlue tough choices but I did all simultaneously! As a business traveler, best experience in a long time. #wishmyflightwaslonger #what"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_2.0,"@southwestair *any site*?   gmail, facebook, etc."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@USAirways if there are empty first class seats on my flight at check in, why wouldn't I be automatically upgraded?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@USAirways @AmericanAir , you Cancelled Flightled my flight back during the holidays and gave me a refund of $8.51/ticket from PHL to EWR, really?!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@USAirways on hold for 1hr, 30min. Not willing to hang in there as long as @franchise02. @AmericanAir answered in 7 min. U are not 1 yet."
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir I'll have to drop by next time I visit!
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@SouthwestAir on hold now for 1 Hour 25 mins Whats the holdup
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways HELLO!! Is anyone behind your twitter account? #badcustomerservice
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir really? That's it? Not even a ""we are looking into this to see what happened/what we could do better next time"""
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united 40 minutes on tarmac now. That's after 9 hour delay.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@AmericanAir is that the ""record locator""?"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir thank you!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@USAirways - had to call to find out I was re-booked tomorrow, why ask for my number an email for day of info"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways thank you for refunding my bag fee.  I look forward to its return today I hope.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@AmericanAir Thank you for responding so quickly to my tweets I do appreciate that.
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,"@JetBlue loved the service from the staff at Newark today. 
+
+Good service goes along way.
+
+I appreciate your preciation  
+
+Nj ✈️Tampa 
+
+🔵🔵🔵"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@USAirways Eh, it happens. I think I'll survive. 😉 Thanks!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir - I get that weather delays are not in your hands, but is there nothing else you can offer for the massive inconvenience?"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue Complete waste of an entire day. Pathetic.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@United wind chill in Ithica -17 degrees, and for the trouble of losing my clothes they give me a t-shirt. I'll burn it for warmth. #united"
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@united Could you tell me if this bag would be accepted as a personal item ? Can i bring one carry-on bag plus this? http://t.co/U390cZpLHl
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united Holiday of a lifetime to New York ruined because you lost my luggage and have failed to find it since Sunday! #wontflyagainwithyou
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir #promotion fly 3 roundtrip #flights to and from #ATL between 2/15 and 5/17 and get a companion pass for the year #travel
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@AmericanAir why don't you have driver service to get employees to work in bad weather like hospitals etc #badmgmt #AmericanAirlines
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_0.0,@united had a different fiasco on my outward trip and was rebooked on to qantas lax-Syd. No FF miles show up in my account for that :(
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@JetBlue check DM please :)
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@SouthwestAir Well plane arrived pretty much on time and it's 68 degrees on the ground in Texas. Not much to complain about.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,"@usairways It was 9º, and some of us had left coats in our luggage in anticipation of cramped overhead bins :|"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,.@SouthwestAir  I finally hung up after 2 hours and was not able to get the flight I needed. #stuckintampa 😞
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united question. Are departure times based off eastern central time or the time zone your actually in?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir my birthday is during #DestinationDragons and im a huge fan- anyway I can get tickets?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@AmericanAir I get &amp; can appreciate that. I've just had so many problems in the last year flying with guys... Pretty aggravating.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united thank you! Love united!! Have 4 flights today!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@JetBlue I may need to. I had a 40 minute layover and now have a 15 min delay on my first flight.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir. For two days now I have been trying to reach #AmericanAirlines customer service to change my flight.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,"@JetBlue you've let me down. 2:15 delay at JFK because of inbound flight from Syracuse, really? #ishouldhavedriven"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir You moved us onto 6.55pm but there is availability on 1.50 and 3.30.   No answer on your phone. Have young children.  HELP!
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@united thank you! My second flight I already got bumped up to 1st! Love it!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@SouthwestAir Repeating this is policy is basically repeating ""Fuck you"" to your customers. I'll be shopping for a new airline ASAP"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,"@AmericanAir  so far all I am getting is ""maybe your bag will come today. We don't know."" Website says ""status unknown""- can you help?"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue I digg it!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir Uhmmm we need @JColeNC down in Dallas,Tx for his tour 😫😫😫"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united Well I can tell you that your customer service at RDU airport is horrific but is exception at O'Hare in Chicago.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@united Will do, cheers"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir Thanks for sending my kid to the #DestinationDragons concert Vegas @Imaginedragons So awesome! http://t.co/G9b6e0a2sZ
+neutral,xxtextlencount_75_130,xxretweetcount_2,xxtweet_createdLocalHour_13.0,"Now put your baggage fees back on ""free."" RT @JetBlue: Our fleet's on fleek. http://t.co/oxsA8btVTB"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@JetBlue Are there really no flights from the Bay Area to Chicago anymore? Lame. So lame.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united seriously?   UA 806.  Delayed because of the copilot isn't here?  For 1.5 hours and he is only flying from Raleigh? Disappointing
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue they are rude and unhelpful. They suggested I catch a flight tomorrow I was supposed to be home today at 2 am and work is waiting
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@SouthwestAir Thanks, you guys are the best"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@southwestair,  kudos to your rep ""Patricia"" at gate B11 this Sunday morning at #Chicago #Midway #MDW,… http://t.co/MmCWkqp2gy"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@AmericanAir @dfwairport listening to all the flights taking off over my house and kicking myself for Flight Booking Problems an AM flight tomorrow. Iceday?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@AmericanAir Your gate attendants in ABQ are awful as was your service. You should be ashamed. Terrible experience here from start to finish
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_5.0,@USAirways i have been patient.. especially the first time. i will never fly with you again
+negative,xxtextlencount_>130,xxretweetcount_2,xxtweet_createdLocalHour_11.0,@USAirways website isnt working and I cant talk to any1 on the phone to check flight status out of dfw. Roads are awful and cant get there
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@united good try but @SouthwestAir got her here safer and sooner
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue had a great experience working with Glenn Coles at Buffalo-Niagara Airport!! Top notch employee
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united has the best customer experience via twitter - huge fan!!!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways power trip. I felt completely threatened and unsafe and I am so angry. Derrick Bussey.  DCA. Would like to reiterate that I was
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@JetBlue all up to date. Can't update via Google play.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir you have Cancelled Flightled my flights because of my last name. Do the right thing and reinstate my tickets
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways @AmericanAir working for me. Tight cx @Mia so they're delaying our flight. Twice. In 20 secs @jabevan221 http://t.co/G3Uy6w28QH
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@united good to know you will open the closed doors for ""premier passengers"" after safety briefings on delayed flights. #annoyed."
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@USAirways on flight 1839 waiting for weight and balance info for the past 30 minutes!!!
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@JetBlue flight 117. proud to fly Jet Blue!
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@SouthwestAir Thank you for your help Adam and to the awesome gate agents at B12 in LAS for getting us home!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@USAirways by far the worst airline in history. I'll never ever fly your garbage again
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@VirginAmerica this is great news!  America could start flights to Hawaii by end of year http://t.co/r8p2Zy3fe4 via @Pacificbiznews
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir thanks for making this the worst flying experience ever. 4 different planes of mechanical issues and 12 hours and counting
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@JetBlue should I expect delays at dca for 7am departure?  Going to Orlando on flight 723
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir make that 7hours now
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@united why do I have to request refund? Why charge twice in first place?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways please hold 3923! I can see it. Just can't get off my first plane quick enough
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways your computer system went down ok that is understandable but the agents make it worse by not helping her or anyone else
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,"@USAirways finally spoke with someone. I have to email the refund dept. I love you guys, but 6 hours in line to be told no dice sucks."
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united download jeokoo the American app for air travelers
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@JetBlue Has DC Thinking About Summer With New Nantucket Service - @MarketWatch http://t.co/yI4wGUk5tr
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united line is just getting longer and moving slower. Lady working the counter is doing great, she just needs help. #customerservicefail"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,“@JetBlue: @dlewis2412 Sorry! Please ask Inflght if there is an open seat you can move to.” Will do!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir flying by myself is getting old
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@JetBlue thanks...
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,"@united I guess you have to ""follow"" me in order for me to send you a DM.. I tried and it won't send."
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways yes, with Delta!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@AmericanAir I've been in line for over half hour trying to see a representative, now I might even miss the next flight too, unacceptable"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@USAirways I will. Is it down or is just me?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@JetBlue You can pass that along to my wife, daughter, daughter's friend, my elderly mother-in-law.  They spent several hours waiting."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united is it possible to add a Known Traveler Number to my ticket after Flight Booking Problems?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@USAirways Only water on flight 763 to DCA? This is the first time I've ever seen this happen. #ExecutivePlatinumMeansNothing #IWantCoffee
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir I had to travel to Savannah, GA, once again, on an airline I don't ""Luv"". When r u going to fly me to Savannah? Pleeeease!!!!"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways what's going on with your website &amp; mobile app??? Help!!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@united poor showing today, no assistance to passengers who mis connected due to maintenance and waiting for baggage"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@united I'm not sure you can do anything as this has been building up over time! Other than promises from your CEO service has gotten worse!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways can I book using some sort of breavement program? I need to get home for my pops funeral
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir AA2334 Second week in a row delayed, due to mechanical issues. All the sleet outside and yet we're stuck changing a tire"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways $75 for that uncertainty? I know u run an account; u don't create policy. But it's an undue penalty for a job req'ing flexibility
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir FREE Cable Out of this World Technology and a mans dream come true... FREE and PORTABLE???!!! http://t.co/Qw1til96YA
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@united now there is no one to operate the ramp to let us out of the plane in IAH...wow..just wow
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@USAirways Stars aligned. Connecting flight was delayed into CLT. Made it! Thanks, glad to know someone is listening. Time for 80° in MoBay!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways flt 1820 2rsw could have extended the courtsey of waiting 2min 4 10 of us.... gates closed in r faces.  Ur fired
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@SouthwestAir I was helped by a nice lady at PHX checkin. I spent 4 hours on hold in 24 hours, so might want to look at efficiency there."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@AmericanAir please pray for us that our gear is not lost or stolen due to YOUR incompetent employees. #CNN #ABCNews #MSNBC #Photography
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,"@AmericanAir yep, they moved me to 16A as they showed me flying ""standby"""
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@united I'm not a child. I'm someone who has an issue with flying and prepares ahead of time to reduce the distress caused by planes. You
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@VirginAmerica Adds Pillows Instead of Lie-Flat Seats in First Class Arms Race 
+http://t.co/SfjDuahx9Z by @skift"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@AmericanAir that's quite an impressive list of fees!
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Based on suggestions from other passengers I have a rental car on standby for 11:30.  One way or another will be leaving then.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@USAirways horrible customer service, flying from Miami to Philadelphia, sent to Charlotte, now can't get out of Charlotte!"
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir snow forecasted for Raleigh NC tomorrow night. Need to know if there's a plan to reschedule flights into RDU Wednesday night
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways or is anyone even responding to social media? AWFUL.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@united nice 2 see U have a sense of humor. #3hourdelay Just want 2 B home but I'll settle for that beer. Once safely in the air, of course"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,"@SouthwestAir bumped me to preboard on both flights (because I'm fat?) Whatever the reason, thanks!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united: No friendly skies from you today. 5hr+ weather delay in SFO followed by 1hr+ mechanical delay while sitting on plane. #NoFun
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united seriously. This is just complete bs.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@SouthwestAir very disappointed in your customer service right now. definitely not feeling the luv. what's worse, 2nd time this winter."
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir sent
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united this team added 30 mins on turnaround
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Please bring American Airlines to #BlackBerry10
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways 2102 DCA-BOS. Cancelled Flightled after making us wait over an hour. If I fly USAir every week can you upgrade my status proactively?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@SouthwestAir A+ to the Safety Dos and Don'ts Announcer. Flight 651 from Midway (MDW) to Pittsburgh (PIT)!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@VirginAmerica I'd love to know what your policy is for damaged luggage.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,"@AmericanAir my flight from VCP to JFK was delayed and now it has been Cancelled Flighted, what should i do?"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,"@SouthwestAir truly the best in #customerservice.  If something goes wrong, no matter how big or small the issue was, they fix it. Thank you"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united thanks
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@USAirways Umm, can you define 'extra time'?"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir why is it most first class passengers now request the sand which from coach ?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united How does that make a flight takeoff on time? And regardless it makes me Late Flight because now I have to wait for my bag at baggage claim.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@united take a lesson from @VirginAmerica , they know how to treat customers!"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways what happens to frequent flyer miles earned once merger is complete with AA?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways 2 hours and counting. ..what kind of travel voucher do I get for this??
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@JetBlue Do your TrueBlue pages not work on Chrome or Safari? I keep getting blank pages when I lick on the TrueBlue tab on your site.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@JetBlue good to hear. Thx for being responsive.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways stuck at the gate in Charlotte, NC waiting for ""release papers"" and a fix for a broken computer system."
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,"@united what the hell? Flight 746. Delayed since 3 pm, finally boarded and now sitting on the tarmac? Is this f&amp;&amp;%$cking plane Ever leaving?"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue Even though this flight #226 didn't have much needed hot beverages 4 us NY-ers, the landing was super smooth 👍👍 😊 #happytweet"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@JetBlue I guess I have to redo the Flight Booking Problems. Ugh!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@USAirways So you Cancelled Flightled my flight AGAIN? are you paying for my hotel?!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir thanks for the Cancelled Flightation today. Only airline that's Cancelled Flighted. Lost a customer today.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@USAirways how about a phone # to talk to a real person?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Had to explain to a very over eager flight attendant trying to ask about my vision that my @ccicanine was not a guide dog!
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united so we fly into SFO and Honululu gets pushed back 3.5 hours and now it looks like more delays.  I beg of you plz sort this out soon!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir how can I get you guys to respond to my tweets and DM??? Really sad feeling to be ignored.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@united Also your at-gate monitor showed 23 empty seats
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,how sway how “@JetBlue: Our fleet's on fleek. http://t.co/tQc96tKcI9”
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united hey, it's 4am, guess what I'm doing? Not sleeping! Why? Cause you care so little about your customers you let them sleep in airports"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@united hey awesome!  Thanks for the reply, will be filling the form out! @AmericanAir"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@AmericanAir would have been nice if the agents were at the very least courteous since the delay was AA's fault
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir Thanks for getting us to paradise safely! http://t.co/KDzQcZlpyR
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@SouthwestAir A-list preferred line phone wait was 15 minutes. I hung up, not feeling A-list-ey!"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways YOU ARE THE BEST AIRWAYS! Follow me please!!!!!🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@united the passengers waited inside the flight on the runway and returned back in o gate that should not count as a valid journey
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir weather is unavoidable. Understaffing is controllable
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united @DelonGerry ual sucks
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united. Worst flying experiences ever the past three days. Your airline needs to get it together. Lost a customer with me
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways @CakeNDeath Question is will he and his lady behave...
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways we called and were able to get rescheduled. Thank you for the quick responses today!!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir Yes! How about #DestinationDragons in San Diego?!?
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir yes please
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways When I check online it states status closed. What does this mean? As I have yet been able to reach a live person...
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@SouthwestAir Bad enough that there is no seat assigned he's  seating at an exit seat and a male flight attendant removes him from there
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,Need more info on that! @united: @momsgoodeats We have great amenity kits. PJ's not included. We status match AA. ^KP”
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@United does a great job of answering public messages. Direct private messages, not so much."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways - been standing at the gate for 45 min trying to go standby bc I will miss my connection. No help! Do NOT fly US AIRWAYS!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@SouthwestAir how often are airplane seats/tray tables cleaned and sanitized? rather have air purifier and clean seats than #wifi 😷😱
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@SouthwestAir I receive bad customer service and ended up spending several hundred dollars to accommodate my family during each cxl flight
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@AmericanAir 719. Looks like we are about to get going, finally!"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways I made a reservation online but I didn't receive any confirmation email. My bank said the transaction went through. Can u help?
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@SouthwestAir never lets me down!!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united not sure why u call it customer care.  Should be customer we don't care
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@AmericanAir AA I need a Hail Mary. How do I get from Dallas to Joplin JLN in the next 14 hours. Willing to fly to other airports and drive
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir Just watched crew on flight 380 help elderly lady off plane...#firstclass
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Cancelled Flightled flight from fresno then rebooked for LAX now flight Cancelled Flightled again and its midnight with no more hotel available???
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@JetBlue @T5Sparrow Love it. They're cute
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united well, you can't fix me missing my buddies 30th bday because of negligence but you can attempt to make up for it."
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@AmericanAir DONE!! thank you so much!!
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@united I flew United last month and the experience was AWESOME!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@AmericanAir is there anyone online that can help... the flight leaves in 3 hrs
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@americanair new plane, #gogo, easy power for laptop, iPhone, just missing a good boat-style swivel cup holder for my #dietcoke #happyflier"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@SouthwestAir My first call got dropped. Waited 15 mins for the second but ran out of time. Will try again Late Flightr. No way to do this online?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,Thanks @JetBlue. Next up we will see how the slog from JFK to the city goes!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@USAirways @garywerk poor excuse. I was towards front of plane, no sandwiches, we have to pay for them, should have more"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@united it's cool. I didn't need to go to work today. Or get home to make sure my house is ok in the -30 wind chill.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"“@united: @qlyss8 We don't want our customers to be frustrated. Thank you for your patience. ^JT” A lovely sentiment, but not a $180 one."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@AmericanAir I have got a flight for
+The next day !! What about a credit ! You guys are a multimillion dollar company give us back a Credit"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways  2 hours on hold and issue still not resolved. hope to make my flight in 12 hours. for every minute of talk = 20 minutes of hold
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue Thank you for the free flyfi!! Makes an already great airline even better! #jetblue #Boston #westpalmbeach #flybetter
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@AmericanAir she doesn't have Twitter.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"Nice try @AmericanAir I heard your crew whisper ""she's still at the hotel, she probably doesn't think she has to work until tomorrow"""
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@JetBlue this is awful! flight out of jfk for our honeymoon is delayed AGAIN until 1225 AM, and we lost money on a hotel now! #delayforwhat?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir I fly American because of family but severe weather excuse so I can't call to make change, why have a computer if u cant modify"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways any travel advisory coming for the Carolinas?  Bad weather!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@JetBlue :/ he was trying to take stuff from the under the seat in front of him and bugging out throughout the flight. Didn't feel safe.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@AmericanAir ok. There is no one at the airport that is helping us. Another customer got told the flight isn't leaving till 1220
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@JetBlue don't think any1 rly knows what's goin on. supposed 2 leave at 8:30a then 9a then 9:30a then 10a then 11a then 11:30a. Now 12
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways download jeokoo the American app for air travelers
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@SouthwestAir: Tried for VIP Live in The Vineyard but yr site went down, by the time I got in 2 redeem pts those packages gone."
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@AmericanAir right on cue with the delays👌
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue I waited 3 hrs for my bags and my flight was only 2 hrs
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@united sent a DM just now. Thanks I am incredibly happy the fast response I got via Twitter than via customer care. Thank you
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@JetBlue haha no need to apologize 😁 I'll be Flight Booking Problems sooner than Late Flightr. I love JetBlue
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@SouthwestAir why can't i reschedule my flight online?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@USAirways changed our flight 6 times in 1 trip. Bumped to @Delta now &amp; having great experience. Never. Flying. US Air again. Never.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@USAirways thanks to the whole team for an on-time flight despite inclement weather http://t.co/eQePkkPSXM
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Thanks! I'll fill up the form as soon as I land. I don't like being duped so I hope you will appreciate my feedback &amp; will be better
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@USAirways @nburnside26 Well if you really didn't like them then she would be on an airplane. #FIOUSAirways 💁
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways I expect something more than telling me to see an agent to rebook my flight...
+positive,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,"@JetBlue Thank you that it is not just a livery; it is a culture that 16,000+ crewmembers embody daily #thanksDave http://t.co/iNNP0Kkyby"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir I'm sorry for straying and going with @AmericanAir I've learned my lesson. These attendants need some SW happiness!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united tremendous. What would you recommend?
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_11.0,@united flight UA5631 from SFO to Burbank has been delayed twice now. Still no plane in sight. Get it together.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir Yes! I did and the bags came straight to my hotel. Thank you ...you guys rock!
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@USAirways getting sorted, thanks"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@virginamerica Trying to make the change in advance (not just 24 hours prior)…tried it online earlier and it wanted $300 in change fees.
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir we have 8 ppl so we need 2 know how many seats are on the next flight. Plz put us on standby for 4 people on the next flight?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways another squashed flight. Having to share my seat with another passenger is not@my idea of quality travel
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir had a great LA flight with Clarence and Frank! Those 2 guys are a hoot! 😜😂 thanks
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@SouthwestAir done messed up now!!! I have planned a trip to #CostaRica for pennies!!! #VacaTime ✈️💺
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@VirginAmerica I'm trying to check into my 10:50AM CT flight tmm on the desktop website and it's not working (some sort of caching bug) SOS
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir 2 1/2 hours Late Flight, but I made it to sf! Maybe you can help me get on an earlier flight on Sunday :)"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@united you'd learn if you listen to your customers...you do want you want...@VirginAmerica asks their customer what they want
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united @iamtedking http://t.co/UCZzP9YpHk click lounges tab. Need to be flying on supported S/A airline
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@SouthwestAir looks like you are up and running for the day. Still can't get through on the phone. Can you follow so I can dm you my info
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@united yes I've boarded this way many times &amp; have never had to show my pass on the Tarmac multiple times. Path was railed off. Only 1 way
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@SouthwestAir Flight 3056. Only an hour long but one of the best flights I've ever had. Kudos to flight crew and airline in general.
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir Hi there. We’re flying SWA today. Our son has a peanut allergy. Any way to request the crew not serve peanuts on flight? Thx
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@AmericanAir Sorry, what equipment? Have the passengers been allowed to return to the plane?"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways can i please have someone call me 781 879 4505
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@AmericanAir why are customer svc reps unable to handle calls. Is there a 24hrs Cancelled Flightlation policy? Booked yesterday need to Cancelled Flight
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways and now that flight pushed back to 2:35pm departure.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@USAirways Are you not even going to acknowledge that you bumped me from a flight (NOT BECAUSE OF WEATHER I AM IN ARIZONA)
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@SouthwestAir currently rebooked thru Dallas but I hear they are expecting an ice storm (sigh) #strandedNYC
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir fair enough. But they could have at least told us. Once again it's the lack of communication. Delays happen, just tell me"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@USAirways Melinda in reservations in greensboro nc is an absolute jewel thank her for me she's amazing!!!
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue When chging flight, isit possible to pay the fare difference in dollars when the ticket was bought completely via point redemption?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue we've been on the runway for over an hour. Now the water pressure is low and taxiing back for maintenance. #1572
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue Or...
+
+....how about a 1way LAX-NYC(area) under 190?! Is this possible ?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@SouthwestAir is not being responding to the @SpecialOlympics athletes.  #notcool #Southwest
+negative,xxtextlencount_75_130,xxretweetcount_3+,xxtweet_createdLocalHour_22.0,@united But I got a bad exchange rate so want my money back. Please can you refund without penalty.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@AmericanAir flight was Cancelled Flightled can you guys help?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@united I will not be flying you again
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@SouthwestAir 10+ people pre boarded
+Only 1 needed a wheel chair off the plane... Was NOT the case boarding"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@united 877 from amsterdam to ewr, 02.27.2015, 737-300."
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@united Followback so I can DM plz
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_nan,@united I'm not sure why I expected anyone to be here http://t.co/bnFlHPXtmw
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@USAirways FA attendant on 4553 PHL to PWM tonight was fab!  An asset to your team.  From 1F. Have a great night team!
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir Great trip on 2672 yesterday - outstanding flight attendants
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@united screwed over my professor. Maybe we should tell everyone about @Skiplagged ? #aviation #airport #airline #innovation #startups #tech
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united AND my luggage has been broken!! #youcouldntmakethis up #brokenwheel
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@USAirways I can legitimately say that I would have rather driven cross country than flown on US Airways.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@JetBlue thanks. Line moved quick. Already done.
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,Flight Booking Problems for a travel writers trip I am hosting and need to be happy when I land! Do you have the cute PJs AA does? @united
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue That is not very gracious of @jetblue to tell me where I can go BUY water or a snack when our flight is delayed over 3 hours.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@united I already follow you. One of you 800-number agents rebooked me. Went from a 777 to an a320. Ugh.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@JetBlue Does your home airport not count in the badge system? My TB account says 2 flights but I've taken 3 this year.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir Weather seriously cannot even be the only excuse at this point because it was awful service in the summer too. Over it.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways last name Pordes
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir hot stewardess flipped me off
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways ...be found when he checks in. Now no info. Please DM me and help me fix this NOW. (3/3)
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir No monkey business we luv SWA!! #mdw2mci #homeandreadyfornexttrip http://t.co/2xJvUn66ZZ
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@united meant changed planes - i hate seating over wing if u wanted I would have booked it - u will get formal complaint
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@SouthwestAir Hoping you answer the phone today?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united thanks! Will you guys be getting the A380s anytime soon?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,"@USAirways delayed my flight 3 times before Cancelled Flighting it, had angry and rude workers, and are now providing no helpful service at all"
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_19.0,@united 6377 and now they sent our green tagged bags to the luggage carousel. It's been one mess up after another. Bad day @united
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways no problem.  Things worked out at airport.   Thanks!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@united Waiting half an hour for my checked bag at EWR (&amp; that was Priority); disappointing, usually you guys are good."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir: grrrrrr I need a flight there first! Maybe for my bday next month...
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@united It's the fact that an international should not be with out her bag and no sense of what's going on other than ""maintenance""."
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united can you get a gate for UA4727?  Turrible.
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_10.0,@united officially has the most inefficient boarding procedure. There is no reason it should take 45 mins to board a plane!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways can you DM me please?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@united can you assign seats
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@united such a relaxing space for a drink before my flight! (at @United Global First Lounge) https://t.co/j4cj0lrF2d http://t.co/dTLGUQ1kAk
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@united @PGATOUR @NTrustOpen I read that last hashtag as Go F United. Makes sense since they F us by Cancelled Flightling ticketed reservations
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@SouthwestAir Any possible chance of SWA bringing back service between LGA-BWI? It would make it much easier to connect to the west coast.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways #DividendRewards Urgently need to speak with a CS rep. My 50K miles havent shown &amp; I've fulfilled all reqs. Flight Booking Problems flights today
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@VirginAmerica Really missed a prime opportunity for Men Without Hats parody, there. https://t.co/mWpG7grEZP"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir yeah that's not helping. Having my bag shipped to the correct city the first time probably would have helped.
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_18.0,@united how can you never got a flight from austin to Houston in time for a connection ever? Ever!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@USAirways if you mean by posted, no USAir empl to direct anyone, 800# not accepting calls, no contact from USAir re: rebook #greatjob"
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@SouthwestAir my flight at BWI is delayed and I will miss my flight in Denver, is there a way to find out if they will hold the plane?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir where was the inclement weather? Other flights left DCA today and this plane appeared to be coming from AUS.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united can you not see the thread?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united I'm on snowy roads to BWI. I Just called MileagePlus &amp; told flight was Cancelled Flighted 1 1/2 hours ago. I rcvd no notification. Pls help
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,"@AmericanAir @derekc21 , I leave Jaipur tomorrow , back to Dehli , Only in Delhi  one night .  we need to  use our abilities to make magic ."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir pretty bad at #DFW no updates two flights behind doors open breeze no America airlines workers http://t.co/6MBK79mdnW
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir hi there flight from Dallas just Cancelled Flightled going to LA. Can u pls help rebook me?
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways thanks so much!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,"@VirginAmerica gives positive outlook, but sees increased competition - @Reuters http://t.co/jEu7Od3eYJ"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@JetBlue why bro
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@AmericanAir Thanks. Took care of it. Issue was IVR was unclear and took too long to get a call-back option. Would love to see that fixed.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@USAirways if you could have ran your USExpress/PSA worth a damn I wouldn't be stuck in horrible CLT now.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@AmericanAir oh it can get better apparently. After making us wait for a gate, psych!! Now we need you to de-ice before coming to the gate!!"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,"@VirginAmerica is todays flight from Palm Springs, Ca to JFK in NY Cancelled Flightled?"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@SouthwestAir Maybe it is just a machine...
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united customer service is the WORST. hanging up on customers intentionally after one hour on hold.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@united DM'ed you
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@AmericanAir 250 I'm not sure if I'm rebooked now. In a line at airport trying to work it out. The earlier I can get to SFO the better:(
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways @usairways -Really? U land me in Philly 1.5 hours before my flight, wait 1.5 hours behind a plane you got stuck,"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Good morning!  Wondering why my pre-TSA check was not on my boarding pass this morning??
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir i have asked Lindsey to call me instead of DM like a schoolgirl but so far no call   Getting tired of typing little notes
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir. It's been 5 hours and still no call and now we are back to being hung up on by an automated system.  #AmericanAirlines
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir Denver to Phoenix, I think we're finally getting ready to take off."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@united My feedback and concerns via your site aren’t going to improve my poor airport experiences.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united thanks for nothing. Really?!? 60 minute wait times when I've had to call back 4x. That's 240minute wait times.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united can I get your service desk # at IAD?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@AmericanAir SO BAD service in Miami, AirPort.."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@SouthwestAir Hi do you know why WN4287 is already delayed until 9:35pm tonight? Thanks !
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir  appreciate y'all getting the gate issue figured GRR. Plenty open gates, yet we sit and wait on tarmac"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@USAirways I just want to find my bag so I won't have to go through the hassle of trying to claim what was in my suitcase #usairwaysfail
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@AmericanAir I'm going to speak with customer service at the airport tomorrow morning and see what my options are. I need a flight tomorrow
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir a worker just checked for ice on our plane using his cell phone flashlight! Really?! Come on!
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@united I didn't get a message from you. I'll resend numbers.
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_20.0,@united how much longer United?? Been on the phone for over an hour to straighten out a star alliance upgrade!!! http://t.co/U1ViEuiDF5
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@JetBlue THANKS!! Her 80th bday is Saturday. We're having an aviation themed surprise party for her.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@JetBlue what's the easiest way to get a ticket receipt? Can I get one at check in or can I get one online? Thanks!
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@USAirways Call volumes are high so the best answer is to hang up on me?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@SouthwestAir Engadget Theverge Wired reddit
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@united I honestly couldn't tell you. All I know is that originally we were going to have it brought in from the concourse
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@SouthwestAir 5 min away!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@SouthwestAir pretty terrible customer service. Sat on hold 10 min. Then a busy signal. Then disconnected. Do all airlines have to suck?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir thanks for your excellent response time and assistance! All set :)
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Hubby made it by the skin of his teeth!   :)
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united trade show! Come by both 130 for awesome deals on #sunkist and @webbernaturals! $$ http://t.co/1L9sCWPhph
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@USAirways I've been on hold for over 2 1/2 hours - there has to be an easier way to Cancelled Flight/get a refund... 😑😩 http://t.co/Cm4roIypc2
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue is definitely my new favorite airline.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@united thnx for quick reply but don't think you can assist. Our intl grp will be put to considerable inconvenience today.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@united I bought a ticket yesterday and received a confirmation. Tried to check in and they said I hadn't paid for it. So I called was on
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir @Rizzilient I booked tickets using miles and need to change the dates.  Have been trying to get to an advantage rep 4 two days
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir just Cancelled Flightled my 7 am flight tomorrow with out informing me at all today, then booked one in 2 days, and no customer service"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,.@USAirways we r rebooked. got conflicting info abt baggage. Y no extra plane batteries on hand? Y no comped admirals club for 9 hr wait?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_17.0,"@AmericanAir yes, and rebooked incorrectly."
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@USAirways thanks for reaching out to me.  My Gold Div no. 2k424j0. My Flights were changed under Confirmation # DNX58V.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@USAirways never flying #USAirways again. Horrible experience, terrible customer service."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@AmericanAir @USAirways #Boo! Wack ass terminal 6 @flyLAXairport. No food. No lounge. No Bueno!! Never again!!!
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united it's freezing on the gate bridge#waitingforbags#united#EWR
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united we just almost had a major accident on ua3710 ... How about passing on some information to those of us waiting on plane!!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,"@JetBlue every time I look at the flight status, 30 more minutes is added to the delay. How about some points for trouble??"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir Hi! Just wanted to see if you have any new routes planned this year for Newark. Love flying you guys and hope to do so more!
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@JetBlue its domestic I just wanted more of an idea so I don't get surprised.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@USAirways It says to call. Before connecting, get song, dance about weather. Weather bad 3 days? Called for 2 days before. #wasteoftime"
+negative,xxtextlencount_>130,xxretweetcount_2,xxtweet_createdLocalHour_16.0,"Hey @united, this is your job, don't give me the safety spin. This is the same plane that broke on the original flight out. #unitedSucks"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@USAirways so apparently all of your computers crashed at BWI?  Any update on when flights will be moving?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@USAirways why would you not give us the option to get off the plane instead of sit on it for an hour and a half when you knew at the gate
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,"@united Brian at SFO customer service deserves a raise, gave me extra meal voucher and a good joke to cheer me up after flight delay. #FTW"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@USAirways you're killing me from the inside
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@SouthwestAir sent
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@SouthwestAir what about for us that cant get to the states they are playing for the hunt? Any DestinationDragons tickets left?Even just one
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@AmericanAir our flight attendant announced that we have transportation waiting for us for that flight so I think we'll make it.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@JetBlue but the 4 hour policy- when I called and they said I didn't report it soon enough. What would have changed if I had noticed sooner?
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united man I can't wait to book my ticket now! Thanks JP you're a life sabe
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_16.0,@SouthwestAir = easy and pleasant. @united = difficult and stressful. Learned my lesson.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,@JetBlue just mine sadly.. But yea the fly fi is awesome
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united Trying to locate passenger that landed 2 hrs ago in @HeathrowAirport UA938. can you assist? Is flight still in customs? PLEASE help
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,"@AmericanAir Traveling with my infant: Do you check the carseat for free? If so, do you provide a bag? Someone told me but wanted to confirm"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@SouthwestAir broke the stroller my wife and baby gate checked. They told her it's not their problem. Calling the A List Preferred line now.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united its been five days, I'm just asking you to clarify your policy on car seats. I don't want to have to take this higher up."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@united Another unfortunate case of bad luck, usually maintenance issue. They are now swapping planes to ONT, will get in Late Flight. :("
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@USAirways Can't get ahold of anyone to speak to about missing miles. It's been over a month since travel &amp; I've submitted twice online
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,.@AmericanAir @TyWinter it's really the small things--the details--that make an excellent experience or a really irritating one.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@SouthwestAir who should I contact about a missing Rapid Rewards credit?
+positive,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_15.0,@SouthwestAir Your Terry is our hero! Got my husband back thru security to retrieve cellphone left on plane in Austin. Terry #85832 U Rock!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@united yall should probably work on that.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir  I sent a email to customer relations and I will be calling tomorrow.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@united no because you will charge me or delay me further. United 1612 still waiting.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@VirginAmerica on flight VX399 headed to LA from JFK - dirtiest VA plane I have ever been on. Sad for a great airline.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue sounds good!!!💙💙💙💙
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,"@JetBlue Flight 1447 (N351JB) ""JBLU"" arrives at @FlyTPA following flight from Westchester County Airport http://t.co/xX2M2jxQep"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue Denver-Boston 2/10 flight 994  and Boston-Denver 2/15 flight 493 (both planes!) visible snack crumbs on seats on all upon boarding
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@JetBlue is REALLY getting on my nerves !! 😡😡 #nothappy
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways but need to confirm please help
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir Same as yesterday's Cancelled Flighted flight. AA104. Your customer support is just awful!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@USAirways even when I do simple google search by flight number it tells me which gate so won't be that difficult am sure #disappointed
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,"@united Soooo, it's been 15 days and you've offered no response. So I assume poor treatment by gate agents is the norm now?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@united What a really GREAT &amp; FLATTERING story about you! You should be very proud :) http://t.co/oKtUkjY92O (via @ParachuteGuy)
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@USAirways how does an airline misplace an airline attendant?!! been at Reagan airport since 1pm10:15 to Cincy is delayed trying to find her
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir I've been tryin to use my voucher to book a flight the last 2days. Lines are busy. Plse help me?The flight may go up.
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@JetBlue 108 to Portland Maine
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united Thank you for your response!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,UA3388 @united was Cancelled Flightled not delayed.  Re-Flight Booking Problems still 90 miles from home.  At least acknowledge the Cancelled Flightlation.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways owes Tammy from the Winston-Salem call center for keeping me as a customer!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@AmericanAir hahahaha! This is crazy! Well here's to another night at the airport!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue we saw one, he was as useless as the tsa agents who inspected my shoes"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@VirginAmerica Thanks!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@united airlines claims to have a low fare guarantee, but they won't honor a lower fare that I found."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,At the airport ready to get this @JetBlue red eye going.... Soooooo sleepy.  #NoPlaceLikeHome #eventhoughits2degreesathome
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@JetBlue Inconvenience is an understatement. More like torture. Clearly going down the wrong path, JetBlue."
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@united Okay, thank you both."
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@United, #deaffriendly? Getting there. Read your review on http://t.co/2Brt0aTHaU: http://t.co/WzNp5q1M0H"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,"@AmericanAir on plane for JFK-&gt;SFO, been sitting here for 1.5 hours waiting for push crew, how is this acceptable?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,"@united It's still a valid flight. Just seems strange to delay for Late Flight inbound crew,  7 hours from now, when the plane is already here."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@SouthwestAir crazy how every airline flew out to the northeast tonight except you
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways Ten hrs Late Flightr and still here on Army cots @ airport waiting for 11am flight. #poorlyhandled #usairheads http://t.co/18fMr06mn6
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir been on hold for &gt;30 minutes about my Cancelled Flightled flight. Still not talked to anyone and flight is soon. What gives?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united that's right- with an overnight Miami.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,@united Slightly better. Crew spent a long time searching for better altitude. Would have helped to let pax in on why all the sharp drops.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united @highbuddyyy that totally sucks my cousin worked at PHL said @united
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue You guys need pillows on these rockers to really knock it out of the park ... just sayin ...
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@JetBlue #611 from JFK to LAS still delayed?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@JetBlue Jan 5? That's not summer http://t.co/TpzhjX7Hbt
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@USAirways I've been on hold for 30 minutes and counting. #unacceptable
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@SouthwestAir has grounded 2 flights b/c of equipment problems &amp; been rude to my wife, traveling alone w/our 2 young kids.  never again."
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_15.0,@USAirways -- I've been on hold 40 mins to Cancelled Flight my reservation for this afternoon. Is there another way? Web tells me to call.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united really?  Someone called in sick and then someone FORGOT to call a replacement?!  Now an hour Late Flight to take off. #theworst
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@united just did! Thank you!
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,@SouthwestAir Great #BlackHistoryMonth commercial! Thx! #ATL #singer #musician #life #BlackLivesMatter
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_5.0,@jetblue rqstd upgrade to mint at LAX and was told no because i used points! Why turn down $1600 bcz I used points? #trueblue
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir I need to be at work tomorrow at 8am, therefore that doesn't help.  Direct message faster than calling 800 number? #Backwards"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@AmericanAir In car gng to DFW. Pulled over 1hr ago - very icy roads. On-hold with AA since 1hr. Can't reach arpt for AA2450. Wat 2 do?
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_8.0,@JetBlue no I asked. Either way it doesn't make the flight less delayed.
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,@SouthwestAir 👏👏👏 on that Late Flightst ad. Makes me happy to be flying you in a few days. #BETHonors
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,"@USAirways if my flight's been Cancelled Flightled, and I can't reach anyone over the phone or ticketing agents, safe to assume I wasn't rebooked?"
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@VirginAmerica Only thing I see on passbook is Virgin Mobile Mexico. How do I integrate?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@united can you help me add my KTN to this reservation PLZ?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@USAirways doesn't seem likely bc your team failed to scan my bag in LAX and you recycle bagtag numbers that doesn't help #usairwaysfail
+negative,xxtextlencount_>130,xxretweetcount_3+,xxtweet_createdLocalHour_18.0,".@AmericanAir No. I watched these bags be abandoned at depart gate. Watched for &gt;40 mins until owner returned, 20+ mins after I reported"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@USAirways 2.5 hours Late Flightr and the flight has been Cancelled Flightled. You gotta work on your internal communication skills.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,".@JetBlue Ah grasshopper, your twitterz kung fu no good.  Hire geeks. http://t.co/8MWItRi9kF"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,"@AmericanAir way to ruin a vacation, my brother has called all night and had multiple places in line only to get dead air on call back"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united The engineer that designed the 787 door frame to extend half a foot into the plane for seat 27A should be forced to always sit here
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@AmericanAir been on the phone for 47 minutes...said it would be 10...  Any advice?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@JetBlue That's right! :) Game, set, match."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir on hold for 45 mins. Anyone hv a connection at SW or at another airline to get from CHI n Columbus to EWR in am?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways Thank you. But I don’t understand. What will you do with my feedback?
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united It appears there are six flights to Calgary tomorrow is this correct?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,"@SouthwestAir because according to the flight attendant my husband doesn't talk english, when the fact is that he understand and talks it"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,"@united any way you can help me find a flight to LAS? Stuck in DIA, sat on plane 2 hrs, now been waiting an hour for an update."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir Yes. However, the seats they assign us that day are never together. I just want to sit with my husband! Why is that impossible?"
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir may I have my Companion pass please.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@united terrible travel experience. Traveled 8000 miles roundtrip but two Cancelled Flightlations of short hops cost me two days
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_7.0,"@USAirways paid to upgrade to first class, went up to Admirals club at PHX airport to be turned away because our flight is to CUN and not MC"
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@jetblue thanks
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@united  Thank you for a wonderful global first class flight on your 777 to FRA. Great service. (cont) http://t.co/46n9kDcsxU
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@VirginAmerica and it's a really big bad thing about it
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@AmericanAir you have the poorest trained employees at these desks. I haven't even started to discuss the #lostluggage yet
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_13.0,But I don't see AA @united
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_12.0,“@JetBlue: Our fleet's on fleek. http://t.co/RLWBJ80mA5” r u serious
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir maybe you should stop tweeting and start calling. Or make it available for people to wait on-hold instead of hanging up on us.
+negative,xxtextlencount_>130,xxretweetcount_1,xxtweet_createdLocalHour_nan,"@united unsmiling rep. told us hotel shuttle comes ""like every 15 minutes."" Breezy 30 min. Late Flightr we're taking a cab. You going to reimburse?"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,"@AmericanAir Its not that I wasn't offered ""perks"" by @USAirways.  I ASKED and was told, ""NO."" #thenewamerican"
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united not my luggage
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir thank you!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir , sitting on plane for 2.5hrs at gate due to computer sys issue, at what point do you Cancelled Flight a flight?, ridiculous @PHLAirport"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_1.0,"@AmericanAir To think that I'm a ""Priority Member""! Wonder how you treat the plebes. I know which rewards card I'm Cancelled Flightling immediately."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united here we go again. 2 of 3 segments SFO--New York RT were delayed OVER 2 hrs each! Why do you suck so BAD!?!Maybe another line of bus?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@USAirways It was US 893. The gate was open after about 50 mins waiting. What a great way to finish an 18 hour delayed arrival!!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@JetBlue @dgruber1700  oh wow and I'm complaining about two hour on the run way shucks JetBlue NOT GOOD your service was better than this
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,"@USAirways Oh yes, because I had loads of time running to my connecting flight after you delayed me for about 90 minutes..."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@AmericanAir Finally got a call from AA, but it was an automated voice that hung up on me! I called back &amp; it says it'll be 2 more hours."
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@USAirways have done that. Sadly no flight from CLT has gotten to IND today and we head back to Tampa tmrw.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united thank you for fully boarding flight 1689 this morning before noticing we had no pilots. #fail
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_12.0,@USAirways - so far so good this week. SAV to CLT boarded BEFORE the departure time (first time in 4 weeks). Perhaps an on time departure?!
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@VirginAmerica Are there any sign up bonuses to enroll in Elevate?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways If my flight is going to be Cancelled Flightled every week I might as well be in business class.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir they don't even give an option to hold.. Just say lines are busy Plz try Late Flightr
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_18.0,smh RT @JetBlue: Our fleet's on fleek. http://t.co/IRiXaIfJJX
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united [checked in + boardingpass w/no checkin bagage] guess i'm all set. :-)
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways on flight # 556 delayed#connection help for flight # 561 # help via email
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways where are my bags?
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways can I bring mini bottles of booze on to my flight?
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir  thanks Southwest for saving our trip. my sweetheart isn't going to miss seeing #AltonBrownLive thanks to y'all! #SOhappy
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_6.0,"@united I guess that's too much ask, huh?"
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_4.0,@united every time I search a flight your site logs me out and gives error message. About to book on a different airline and Cancelled Flight my card.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir really enjoying sitting at BWI with the door wide open and the a/c on as they fix a ""baggage error"" #sarcasm"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways she just did but really how drunk does someone have to be before you stop serving them
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir DeLacy P is a compassionate professional! Despite the flight challenges she made passengers feel like priorities!!🌟🌟
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united will lose my bag but won't give me free pretzels #frauds
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_1.0,@USAirways right on. Up. Up &amp; away ✈️🌞
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united @perfectomobile Definately not an award for employer of the year #united13
+neutral,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@SouthwestAir is there a way to DM you?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@USAirways I've been trying to call you for days and every time the system is overloaded and disconnects. Really?  A global company?  Help!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,“@united: @rikrik__ What made you come to this? Can we help you with anything? ^JP” the service just hasn't been great.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,"@SouthwestAir my bag was lost, and according to the rep they don't even know where it is, Please help."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_0.0,"@SouthwestAir I am scheduled for the morning, 2 days after the fact, yes..not sure why my evening flight was the only one Cancelled Flightled"
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@JetBlue I would go to Las Vegas. It is gorgeous and I go there every year and I fly with you guys Vegas is gorgeous &amp; so much to do there.🌴
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir we are trying to go as far away from King'sCollegeLondon as possible for charity today. Would you help us ? #jailbreak #RAG
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,"@united Call customer service and of course they just say ""theres nothing we can do"" and then offer a transfer and disconnect the line."
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@AmericanAir There are only 24 hours to Cancelled Flight or change itineraries booked online and that 24 hours is just about over. Impossible scenario
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united Currently on standby to Lax then it is a 2 hour ride to Palm Springs. Long day starting at a snowy 3:30 am in philly.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue PDX to JFK was suuuuper HOT.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways I find it funny that @PHLAirport responds but you don't. Your customer service is the worst. #wedontcarebecauseyoupaidalready
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways F623 DEN:PHX impressive lack of concern by 1hr+ Late Flight flight attndt wrecking havoc on customer travel #smugsmirk #norush
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_17.0,@united used to (still do?) let you listen to flight radio...I often did...interesting to me #TCMParty #CE3K #31DaysOfOscar
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways Handled. I found tkt on floor dropped by someone. No way - I’m in wheelchair - to get to podium.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@JetBlue so I don't know confirmation number or the names of the flight attendants and supervisor
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_19.0,@united yes but taking two days to get bag delivered. Missed a full day skiing because of this.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united ... horrible wait time on 4348 to get a gate  ..shows total miss  management . Value customer time and respect thier sentiment
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_18.0,"@USAirways beware,  Barklays bank has terrible cust service. Will not assist, only know to go by badly written book(in English)."
+neutral,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways is it your practice to give 1st class seats to us air employees before giving them to chairmans customers sitting in coach?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_19.0,"@AmericanAir why does your customer service line say ""we are experiencing high call volume"" and then spontaneously hangup on the person?"
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@AmericanAir thanks keep me updated just hope I make either of my connections to Killeen Tx
+positive,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@SouthwestAir Never felt better taken care of! Indian aunties are the gold standard. Thanks Aruna! http://t.co/aypyaDUY6a
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@SouthwestAir bad weather and multiple Cancelled Flighted flights has us all scared!  Noted for next time.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_6.0,@united thank you for the reply. I emailed your customer care department about my experience.
+neutral,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_16.0,@united Lindsay and ??.  Darn.  Terrible memory on my part.  I know they are headed back to IAD and then PIT tonight.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_23.0,@USAirways #usairways lost a passenger today for not upholding their promise of excellent customer service!!!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@SouthwestAir are people in an exit row still supposed to give their verbal approvals? I was never asked on the flight I'm on...
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_22.0,@united I guess. But what is the excuse for understaffed costumer services? 3 people had to deal with lots of angry passengers. Weather too?
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@united why do I have to go thru the details of the flight I want w/ the recording to then repeat ALL when a real person gets on the line?
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_10.0,@USAirways Decided to be a good sport and give you guys another shot. Flight delayed. Again.
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_9.0,@united screwing me over twice in one month. Learned my lesson. We are through.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir I have filed multiple complaints. I prefer to continue warning the public instead of wasting more time with this inhumane corp.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@USAirways US 728/Feb 21 Hour 6 on plane when US Airways representative Kim Y enters deteriorating picture. Unhelpful with no assurances.
+positive,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_0.0,@AmericanAir you're my early frontrunner for best airline! #oscars2016
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_13.0,@SouthwestAir Can a pair of tickets waiting for me after my sports practice? I live here and definitely know where that is! @Imaginedragons
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir already shared with them. Nothing done!
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_11.0,@VirginAmerica my group got their Cancelled Flightlation fees waived but I can't because my ticket is booked for 2/18? Your reps were no help either 😡
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_nan,@AmericanAir don't they already know ?  Isn't everyone sharing how nasty the food is? It's not even close to decent.
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_19.0,"@AmericanAir now I have to wait ""more than 60 minutes"""
+negative,xxtextlencount_<=75,xxretweetcount_0,xxtweet_createdLocalHour_15.0,@united your customer service is crap.
+negative,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_21.0,@USAirways - been on hold for more than 2.5 hours - this after not getting through after 2 hours on hold this morning with no answer - help!
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_2.0,@SouthwestAir 75 minutes and still waiting for skis to be unloaded. You should be ashamed. It's 1:30 in the morning.
+positive,xxtextlencount_>130,xxretweetcount_0,xxtweet_createdLocalHour_nan,"@SouthwestAir 2/22-MDW 2 SAN flt 1687 attendant Melissa was awesome! Fast, smiling, great. After weather Cancelled Flight day b4, it was welcome"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_20.0,"@AmericanAir @MO3TVida just so you know, reservations team has a 2+ hr callback time"
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_3.0,@AmericanAir help us here !!! We are stuck here @jfk for more than 24hours! !we need to go home #flight919 #saveus
+negative,xxtextlencount_75_130,xxretweetcount_0,xxtweet_createdLocalHour_14.0,@united why would a person take hours and hours of wait time just to tell a lie
+negative,xxtextlencount_75_130,xxretweetcount_1,xxtweet_createdLocalHour_23.0,@united your worker told us not to call because we'd be talking to someone in Thailand...
